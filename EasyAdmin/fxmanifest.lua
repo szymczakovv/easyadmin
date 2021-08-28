@@ -15,6 +15,5 @@ client_scripts {
 	"admin_client.lua",
 	"gui_c.lua",
 }
-exports {
-	'NoClip'
-}
+
+export 'NoClip'
